@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "VideoTracking-ZD": {
+      "commandName": "Project",
+      "commandLineArgs": "video_frames"
+    }
+  }
+}
